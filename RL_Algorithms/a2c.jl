@@ -1,4 +1,4 @@
-#This script executes the Advantage Adctor Critic algorithm from Minh
+#This script executes the Advantage Actor Critic algorithm from Mnih
 
 
 include("src/init.jl")
